@@ -1,4 +1,4 @@
-const WEBHOOK_URL = "https://launa-hierogrammatical-recurrently.ngrok-free.dev/webhook/debate";
+const WEBHOOK_URL = "https://launa-hierogrammatical-recurrently.ngrok-free.dev/webhook/debate-topic";
 
 async function startDebate() {
   const topicInput = document.getElementById("topicInput");
